@@ -1,5 +1,5 @@
 # Breanna Young
-### NSCC IT Web Programming course
+### NSCC IT Web Programming
 (she/her)
 
 <!---
